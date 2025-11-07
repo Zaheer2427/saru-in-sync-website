@@ -8,7 +8,7 @@ import saruInSyncLogo from "../assets/saru-in-sync-name-logo.png";
 const sections = [
   { id: "home", label: "Home" },
   { id: "what", label: "What I do" },
-  { id: "how", label: "How it works" },
+  { id: "how", label: "Booking" },
 ];
 
 // ---------- Navbar ----------

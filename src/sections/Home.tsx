@@ -78,7 +78,7 @@ export default function Hero() {
               document.getElementById("how")?.scrollIntoView({ behavior: "smooth" })
             }
           >
-            Book Your Session Now – Just ₹149
+            Book Your Session Now
           </Button>
 
           {/* About Section */}
