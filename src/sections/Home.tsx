@@ -119,7 +119,7 @@ export default function Hero() {
                 maxWidth: "600px",
               }}
             >
-              <p>I’m Saranya, creator of <b>Saru in sync</b> and an <b>IT Software Engineer</b> by profession. With a strong academic foundation in <b>Bsc IT., MBA (ISM) .,</b> I combine my technical background with real-life experiences to guide and support others.</p>
+              <p>I’m Saranya, creator of <b>Saru in sync</b> and an <b>IT Software Engineer</b> by profession. I combine my technical background with real-life experiences to guide and support others.</p>
               <p>Through my YouTube channel and podcast, I share real, raw, and practical advice. Many of you reached out for deeper guidance, so I now offer personal sessions designed to help you gain clarity, direction, and confidence - whether in your studies, career, mindset, or life.</p>
               <p>My mission is simple: to help you unlock your potential, overcome roadblocks, and take the next step with confidence.</p>
             </Typography>
